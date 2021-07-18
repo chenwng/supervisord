@@ -5,6 +5,7 @@ package main
 
 import (
 	"net/http"
+	_ "github.com/UnnoTed/fileb0x"
 )
 
 //HTTP auto generated
